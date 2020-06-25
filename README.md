@@ -6,14 +6,19 @@ Steps to be followed to run the project
 
 Clone Repository
 
-Install Dependencies
+
+
+Install Dependencies :
 npm install
 
-Update Webdriver Manager
+
+Update Webdriver Manager :
 webdriver-manager update
 
-Start Webdriver Manager (in 1 terminal window)
+
+Start Webdriver Manager :(in 1 terminal window)
 webdiver-manager start
 
-Run Protractor (in another terminal window)
+
+Run Protractor :(in another terminal window)
 run protractor conf.js
