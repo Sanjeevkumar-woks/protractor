@@ -15,6 +15,9 @@ npm install
 Update Webdriver Manager :
 webdriver-manager update
 
+Ts to js conversion:
+command: TSC
+
 
 Start Webdriver Manager :(in 1 terminal window)
 webdiver-manager start
